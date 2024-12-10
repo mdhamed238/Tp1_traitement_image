@@ -1,4 +1,4 @@
-opencv/
+opencv
 build_opencv/
 main
 *.o
